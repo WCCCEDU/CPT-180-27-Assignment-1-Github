@@ -1,6 +1,6 @@
 ### Assignment 1
 ##### Play in the Playground
-I want you to follow the video here [https://www.youtube.com/watch?v=bQ-B8PhZjPY])(https://www.youtube.com/watch?v=bQ-B8PhZjPY) and submit at least 1 PR to the Playground.
+I want you to follow the video here [https://www.youtube.com/watch?v=bQ-B8PhZjPY](https://www.youtube.com/watch?v=bQ-B8PhZjPY) and submit at least 1 PR to the Playground.
 You can submit as many as you like. Here is how this assignment will differ from the video so __LISTEN CLOSELY__. In your feature branch make a new file or folder that is your github screen name. If you make a folder you have to put some files in it but it doesn't matter what they are as long as they have contents.
 
 I am going to give you all admin access to this repo so you can click the bit green merge button at the bottom of you repo after you open your PR. It just feels nice to close a PR. Feel free to do this more than once and get the positive vibes going.
